@@ -15,12 +15,6 @@ This application is built entirely client-side using React, making it easy to de
 * **Streamed Responses:** Simulates a live-typing effect for AI agent responses, enhancing user experience.
 * **Modular Architecture:** Separates concerns for LLM interaction, database querying, and UI presentation.
 
-## 🚀 Demo
-
-A video demonstrating the AI agent in action, answering example questions (including API calls and terminal output), can be found here:
-
-[**Insert Your Demo Video Link Here**]
-(e.g., a Google Drive link or YouTube link)
 
 ## 📊 Datasets Used
 
